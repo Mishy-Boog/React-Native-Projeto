@@ -1,0 +1,1 @@
+falta consertar a receita, fazer relatorio e ajeitar alguns fatores, temos pronto o cadastrar adm/funcionario com as abas de estoque, adm e funcionarios funcionando até o momento, se houver mais atualizações substitua esse arquivo com elas!
